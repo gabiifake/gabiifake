@@ -5,9 +5,10 @@
 - My favorite games are Minecraft, Roblox and FNF
 
 <div>
- [![SoulBFMods77's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoulBFMods77)](https://github.com/SoulBFMods77/github-readme-stats)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoulBFMods77&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulBFMods77&layout=compact&theme=tokyonight"/>
+
 </div>
 
 ### ❤️ My Social Account's:
