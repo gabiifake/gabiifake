@@ -13,7 +13,7 @@
 
 ### ❤️ My Social Account's:
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/soulbfmods77)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/jCW3rktJ)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SoulBF-Mods?si=7hg39ptXvbIh8F-A)
 
 </div>
